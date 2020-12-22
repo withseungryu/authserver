@@ -16,7 +16,7 @@ import java.util.stream.Collectors;
 public class JwtUtil {
 
 
-//    @Value("${jwt.secret}") //어떻게 해야함??
+//    @Value("${jwt.secret}")
     private String secretKey = "sksmswlrmadurltmakdlfrpdlxmdptjroqkfgksmswnd"; //나는지금여기스마일게이트에서개발하는중
 
     public String getEmailFromToken(String token) {
