@@ -22,4 +22,4 @@
 * 유저 Admin 
 
 ## 아키텍처
-![아키텍처](./archit.jpg)
+![아키텍처](./archit.JPG)
